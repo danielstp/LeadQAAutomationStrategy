@@ -362,16 +362,16 @@ a:focus {
     transform:         translateZ(50px);
 }
 h1 {
-    font-size: 120%;
+    font-size: 160%;
 }
 h2 {
-    font-size: 115%;
+    font-size: 150%;
 }
 h3 {
-    font-size: 110%;
+    font-size: 140%;
 }
 h4 {
-    font-size: 105%;
+    font-size: 125%;
 }
 h1, h2, h3, h4 {
     /* font: inherit; */
